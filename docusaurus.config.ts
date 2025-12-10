@@ -167,7 +167,7 @@ const config: Config = {
   },
 
   url: 'https://fatimagulsheikh.github.io',
-  baseUrl: '/https://github.com/fatimagulsheikh/Hackathon-I',
+  baseUrl: 'https://github.com/fatimagulsheikh/Hackathon-I',
 
   organizationName: 'fatimagulsheikh',
   projectName: 'physical-ai-humanoid-robotics',
