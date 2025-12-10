@@ -166,8 +166,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://fatimagulsheikh.github.io',
+  baseUrl: '/https://github.com/fatimagulsheikh/Hackathon-I',
 
   organizationName: 'fatimagulsheikh',
   projectName: 'physical-ai-humanoid-robotics',
