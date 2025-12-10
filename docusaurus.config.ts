@@ -174,6 +174,9 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
 
+onBrokenMarkdownLinks: 'warn',
+
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
